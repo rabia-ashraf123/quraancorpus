@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quraancorpus/static/css/main.128ec73f.css",
+    "main.js": "/quraancorpus/static/js/main.cb2cdd41.js",
+    "static/media/NotoSansArabic-VariableFont_wdth,wght.ttf": "/quraancorpus/static/media/NotoSansArabic-VariableFont_wdth,wght.27a723787811346fa9a8.ttf",
+    "static/media/NotoNastaliqUrdu-VariableFont_wght.ttf": "/quraancorpus/static/media/NotoNastaliqUrdu-VariableFont_wght.83891f7e7d86b5d4f846.ttf",
+    "static/media/Amiri-Bold.ttf": "/quraancorpus/static/media/Amiri-Bold.2e2c4a0e16730621965b.ttf",
+    "static/media/quran.jpg": "/quraancorpus/static/media/quran.f6e1745af23fcf9e19af.jpg",
+    "static/media/110_Besmellah Normal.ttf": "/quraancorpus/static/media/110_Besmellah Normal.85bafd63fad1c6ff83f1.ttf",
+    "static/media/noorehuda Regular.ttf": "/quraancorpus/static/media/noorehuda Regular.36408d16da437c112e1f.ttf",
+    "static/media/_PDMS_Saleem_QuranFont.ttf": "/quraancorpus/static/media/_PDMS_Saleem_QuranFont.a258fc5638bdebfb5b13.ttf",
+    "static/media/Lateef-Regular.ttf": "/quraancorpus/static/media/Lateef-Regular.869ac83ef1cd04287904.ttf",
+    "static/media/Coors_Script_Regular.ttf": "/quraancorpus/static/media/Coors_Script_Regular.a76ca9755d03e87dba69.ttf",
+    "static/media/blue.jpg": "/quraancorpus/static/media/blue.f4e9b4e3d8cd9d2740d1.jpg",
+    "static/media/logo.png": "/quraancorpus/static/media/logo.ee63b758f7fa3a8271fa.png",
+    "index.html": "/quraancorpus/index.html",
+    "main.128ec73f.css.map": "/quraancorpus/static/css/main.128ec73f.css.map",
+    "main.cb2cdd41.js.map": "/quraancorpus/static/js/main.cb2cdd41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.128ec73f.css",
+    "static/js/main.cb2cdd41.js"
+  ]
+}
