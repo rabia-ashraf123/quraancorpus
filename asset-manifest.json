@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quraancorpus/static/css/main.128ec73f.css",
-    "main.js": "/quraancorpus/static/js/main.5fabd44e.js",
+    "main.js": "/quraancorpus/static/js/main.552e9317.js",
     "static/media/NotoSansArabic-VariableFont_wdth,wght.ttf": "/quraancorpus/static/media/NotoSansArabic-VariableFont_wdth,wght.27a723787811346fa9a8.ttf",
     "static/media/NotoNastaliqUrdu-VariableFont_wght.ttf": "/quraancorpus/static/media/NotoNastaliqUrdu-VariableFont_wght.83891f7e7d86b5d4f846.ttf",
     "static/media/Amiri-Bold.ttf": "/quraancorpus/static/media/Amiri-Bold.2e2c4a0e16730621965b.ttf",
@@ -15,10 +15,10 @@
     "static/media/logo.png": "/quraancorpus/static/media/logo.ee63b758f7fa3a8271fa.png",
     "index.html": "/quraancorpus/index.html",
     "main.128ec73f.css.map": "/quraancorpus/static/css/main.128ec73f.css.map",
-    "main.5fabd44e.js.map": "/quraancorpus/static/js/main.5fabd44e.js.map"
+    "main.552e9317.js.map": "/quraancorpus/static/js/main.552e9317.js.map"
   },
   "entrypoints": [
     "static/css/main.128ec73f.css",
-    "static/js/main.5fabd44e.js"
+    "static/js/main.552e9317.js"
   ]
 }
